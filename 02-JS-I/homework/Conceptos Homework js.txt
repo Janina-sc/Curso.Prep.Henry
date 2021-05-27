@@ -1,0 +1,5 @@
+Variables, son contenidos que se dan, para luego recuperarlos cuando lo invoquemos, pueden ser números, string, booleanos.
+Strings, son cadenas de caracteres, siempre van entre comillas
+Funciones, se usan para no repetir códigos, los agrupa, y las ejecuta con los argumentos que se le dan, los argumentos son el contenidos, y la función return nos devuelve algo por consola, nos da un resultado según los parámetros dados.
+Declaraciones, (if- else- else if) se usan para, dado cierto parámetro, ejecuta una función dada.
+Valores booleanos, son true y false. Los devuelve si considera que algo es cierto o falso según los parámetros dados.
