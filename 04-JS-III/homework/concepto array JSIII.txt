@@ -1,0 +1,1 @@
+Array, es un arreglo, quiere decir que se puede listar varios elementos, strings, númeromos, booleanos, funciones, otros arreglos. Luego  podemos invocar los elementos dentro del arreglo para ejecutar sobre ellos. Los elementos de los array siempre van entre corchetes y separados entre sí por una coma.
