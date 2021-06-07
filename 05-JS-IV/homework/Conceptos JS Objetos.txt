@@ -1,0 +1,5 @@
+Objetos: es una colección de propiedades, pueden estar compuesto por cualquier tipo de elementos: strings, números, array, booleandos, funciones, otros objetos. Se usa un signo igual y corchetes para crearlos. Están compuestos de propiedades.
+Propiedades: son una asociación entre una clave(key) y un valor(value), están separados por 2 puntos- clave:valor. Un objeto puede tener muchas pares de propiedades, y entre ellos están separados por una coma.
+Métodos: dentro de un objeto las funciones se llaman métodos.
+Bucle for ...in: para iterar un objeto se usa el bucle for ...in loop. Se escribe for, entre paréntesis se crea una variable, se escribe "in" y luego el nombre del objeto.
+Notación con puntos:para acceder a las propiedades hay dos formas de hacerlo, una es a través del Dot Notation, que consiste en escribir el nombre del objeto, luego un punto y el nombre de la propiedad que queremos llamar. La otra forma de hacerlo es a través de corchetes, se escribe el nombre del objeto y entre corchetes se pone el nombre de la propiedad, si es una string se usan comillas. Se recomienda usar la notación con corchetes cuando haya que recorrer o trabajar con funciones.
