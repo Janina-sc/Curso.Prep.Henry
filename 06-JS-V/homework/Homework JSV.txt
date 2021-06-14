@@ -1,0 +1,3 @@
+Conceptos:
+Prototype: las clases establecen un método una vez, y luego dan acceso a cada objeto de esa clase a esos métodos. Cada clase tiene una propiedad prototype.
+Constructors(de clases): la función Constructors,sirve para crear una clase(class). sirve para crear un objeto que compartan propiedades, y funciones. Para crearla se escribe : function, el nombre de la clase que estamos creando, la primera letra va en mayúscula por convención, la llave y luego con this. el nombre de la instancia y = el valor.
