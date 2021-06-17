@@ -1,0 +1,1 @@
+Funciones Callbacks: en JS podemos pasar una función a otra función como argumento, va entre paréntesis
